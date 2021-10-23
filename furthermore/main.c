@@ -64,6 +64,5 @@ int	main(int argc, char **argv)
 	ft_free_list(a);
 	ft_free_list(b);
 	ft_free_listr(res);
-	while (1);
 	return (0);
 }
